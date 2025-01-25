@@ -6,7 +6,7 @@ This is a simple GUI-based tool built in Java to fix Darksiders II save files. W
 - Documents\My Games\Darksiders2\<steam_id>
 - <steam_folder>\userdata\<steam_id>\388410\remote
 
-## For Darksiders II OG (CODEX):
+## For Darksiders II OG (SKIDROW):
 - Documents\My Games\Darksiders2\English
 - ...\AppData\Local\SKIDROW\50650\Storage
 
